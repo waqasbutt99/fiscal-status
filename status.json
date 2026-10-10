@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "min_version": "1.0",
+  "download_url": "",
+  "message": "",
+  "keys": {
+    "PASTE-HASH-FROM-make_keys.py-HERE": "user1"
+  }
+}
