@@ -4,6 +4,12 @@
   "download_url": "",
   "message": "",
   "keys": {
-    "PASTE-HASH-FROM-make_keys.py-HERE": "user1"
+    "e5f7532630bef85082ffa63264c92efb636799ad6d3abfef67fa77cbdebe8392": "user1",
+    "82160d7e49d653448028e6ecfcf0050807470b3f5eb0ed6c7dbffa46059ca8cd": "user2",
+    "0756e621a47338a7ac69ef16983a4ff839ea4914bcbdc2903c5eaec2fa563508": "user3",
+    "b19b8e7a4606480332623462fb452ce9542299248a91e212386a20c06cfcdd06": "user4",
+    "b6fd2f43879d6e560638b083cc2c4e4c73f5c5b693225cb13201f7a53d656b22": "user5",
+    "e6e4ff3c6ff5acceeb067c5b31f1e5ffefb93d11efcb37009e3f97e697731afa": "user6",
+    "4fc9e3c1fad5f9120227177fb4bda3457a1e4fdd4717193aae5c36c7f0c46ccd": "test"
   }
 }
